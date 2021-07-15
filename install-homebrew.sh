@@ -1,8 +1,8 @@
 #!/bin/zsh
-echo "\nInstaling Homebrew"
+echo "\nInstalling Homebrew"
 export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 
-# Installl homebrew
+# Install homebrew
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 echo "\nInstaling applications from homebrew"

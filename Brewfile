@@ -5,6 +5,7 @@ tap "homebrew/cask-fonts"
 tap "homebrew/cask-versions"
 tap "homebrew/core"
 tap "golangci/tap"
+tap "romkatv/powerlevel10k"
 tap "warrensbox/tap"
 
 brew "ansible"
@@ -30,6 +31,7 @@ brew "mongodb-database-tools"
 
 brew "golangci/tap/golangci-lint"
 brew "warrensbox/tap/tfswitch"
+brew "romkatv/powerlevel10k/powerlevel10k"
 
 cask "avast-security"
 cask "logitech-camera-settings"
