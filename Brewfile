@@ -25,14 +25,13 @@ brew "zsh-autosuggestions"
 brew "zsh-completions"
 brew "zsh-syntax-highlighting"
 
-brew "mongodb-community"
 brew "mongodb-community-shell"
-brew "mongodb-database-tools"
 
 brew "golangci/tap/golangci-lint"
 brew "warrensbox/tap/tfswitch"
 brew "romkatv/powerlevel10k/powerlevel10k"
 
+cask "studio-3t"
 cask "avast-security"
 cask "logitech-camera-settings"
 cask "logitech-options"
